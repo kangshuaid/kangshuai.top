@@ -1,1 +1,1 @@
-nginx -c /root/develop/github/nmlyf.cn/nginx/test.sjxfc.top.conf
+nginx -c /root/develop/github/kangshuai.top/nginx/nginx.conf
